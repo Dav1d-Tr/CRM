@@ -60,7 +60,7 @@ import { ReactComponent as TrelloIcon } from "./trello.svg?react";
 import { ReactComponent as BillIcon } from "./bill.svg?react";
 import { ReactComponent as HeadsetIcon } from "./Headset-Solid.svg?react";
 import { ReactComponent as Loop } from "./loop.svg?react";
-import { ReactComponent as Hashtag } from "./Hashtag.svg?react";
+import { ReactComponent as Hashtag } from "./hashtag.svg?react";
 import { ReactComponent as Price } from "./Price.svg?react";
 import { ReactComponent as AddIcon } from "./Add.svg?react";
 import { ReactComponent as Columns } from "./Columns.svg?react";
